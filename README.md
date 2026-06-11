@@ -1,3 +1,14 @@
+---
+title: RAG Technical Documentation Chatbot
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.58.0
+app_file: app.py
+pinned: false
+---
+
 # RAG Technical Documentation Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
